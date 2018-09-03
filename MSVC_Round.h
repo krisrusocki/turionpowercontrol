@@ -2,4 +2,4 @@
 
 #include <math.h>
 
-int round (float);
+int round_to_int (float);
